@@ -28,6 +28,8 @@ You are not allowed to use any pre-existing or personal repositories.
 
 ❌ No plagiarism or copying complete projects from the internet
 
+❌ Submission after deadline will not be considered.
+
 > Violation of rules may lead to disqualification.
 
 ---
