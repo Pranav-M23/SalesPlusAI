@@ -36,7 +36,7 @@ You are not allowed to use any pre-existing or personal repositories.
 
 There is no enforced folder structure.
 Organize your repository however you like.
-However, your fork's readme file must include the following:
+However, your fork's `README.md` must include the following:
 
 * **Problem Statement**: What problem are you solving and why?
 
